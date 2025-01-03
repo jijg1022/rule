@@ -4,10 +4,34 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,westaport.com
+DOMAIN-SUFFIX,423down.com
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+DOMAIN-SUFFIX,chaipip.com
+DOMAIN-SUFFIX,dyndns.com
+DOMAIN-SUFFIX,ngeztp.lol
+DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,ngeztp.lol
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,360buy
+DOMAIN-KEYWORD,alicdn
+DOMAIN-KEYWORD,alimama
+DOMAIN-KEYWORD,alipay
+DOMAIN-KEYWORD,appzapp
+DOMAIN-KEYWORD,baidupcs
+DOMAIN-KEYWORD,bilibili
+DOMAIN-KEYWORD,ccgslb
+DOMAIN-KEYWORD,chinacache
+DOMAIN-KEYWORD,duobao
+DOMAIN-KEYWORD,jdpay
+DOMAIN-KEYWORD,moke
+DOMAIN-KEYWORD,qhimg
+DOMAIN-KEYWORD,vpimg
+DOMAIN-KEYWORD,xiami
+DOMAIN-KEYWORD,xiaomi
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
@@ -15,15 +39,19 @@ IP-CIDR,219.146.1.66/32,no-resolve
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,dot.pub
+DOMAIN-SUFFIX,doh.360.cn
+DOMAIN-SUFFIX,dot.360.cn
+IP-CIDR,1.12.12.12/32,no-resolve
 IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,219.147.1.66/32,no-resolve
 IP-CIDR,119.29.29.29/32,no-resolve
+IP-CIDR,120.53.53.53/32,no-resolve
 IP-CIDR,223.5.5.5/32,no-resolve
 IP-CIDR,223.6.6.6/32,no-resolve
 IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
-
 
 # 360
 DOMAIN-SUFFIX,360.com
@@ -35,6 +63,11 @@ DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
 
+# 4399
+DOMAIN-SUFFIX,4399.com
+DOMAIN-SUFFIX,4399pk.com
+DOMAIN-SUFFIX,5054399.com
+DOMAIN-SUFFIX,img4399.com
 
 # 58
 DOMAIN-SUFFIX,58.com
@@ -61,6 +94,7 @@ DOMAIN-SUFFIX,aliyundrive.net
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,dingtalkapps.com
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,hichina.com
 DOMAIN-SUFFIX,mmstat.com
@@ -162,7 +196,6 @@ DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,livechina.com
 
-
 # HuaWei
 DOMAIN-SUFFIX,dbankcdn.com
 DOMAIN-SUFFIX,hc-cdn.com
@@ -175,6 +208,24 @@ DOMAIN-SUFFIX,hwccpc.com
 DOMAIN-SUFFIX,vmall.com
 DOMAIN-SUFFIX,vmallres.com
 
+# Heytap
+DOMAIN-SUFFIX,allawnfs.com
+DOMAIN-SUFFIX,allawno.com
+DOMAIN-SUFFIX,allawntech.com
+DOMAIN-SUFFIX,coloros.com
+DOMAIN-SUFFIX,heytap.com
+DOMAIN-SUFFIX,heytapcs.com
+DOMAIN-SUFFIX,heytapdownload.com
+DOMAIN-SUFFIX,heytapimage.com
+DOMAIN-SUFFIX,heytapmobi.com
+DOMAIN-SUFFIX,oppo.com
+DOMAIN-SUFFIX,oppoer.me
+DOMAIN-SUFFIX,oppomobile.com
+
+# Iflytek 科大讯飞
+DOMAIN-SUFFIX,iflyink.com
+DOMAIN-SUFFIX,iflyrec.com
+DOMAIN-SUFFIX,iflytek.com
 
 # Iqiyi
 DOMAIN-SUFFIX,71.am
@@ -185,10 +236,6 @@ DOMAIN-SUFFIX,ppsimg.com
 DOMAIN-SUFFIX,qiyi.com
 DOMAIN-SUFFIX,qiyipic.com
 DOMAIN-SUFFIX,qy.net
-
-# PDD 拼多多
-DOMAIN-SUFFIX,pinduoduo.com
-DOMAIN-SUFFIX,yangkeduo.com
 
 # JD
 DOMAIN-SUFFIX,360buy.com
@@ -252,6 +299,10 @@ DOMAIN-SUFFIX,youdao.com
 # PPTV、PPLive
 DOMAIN-SUFFIX,pplive.com
 DOMAIN-SUFFIX,pptv.com
+
+# PDD 拼多多
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,yangkeduo.com
 
 # Sina
 DOMAIN-SUFFIX,leju.com
@@ -329,6 +380,22 @@ DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,thundercdn.com
 DOMAIN-SUFFIX,xunlei.com
 
+# YYeTs 人人影视
+DOMAIN-SUFFIX,got001.com
+DOMAIN-SUFFIX,p4pfile.com
+DOMAIN-SUFFIX,rrys.tv
+DOMAIN-SUFFIX,rrys2020.com
+DOMAIN-SUFFIX,yyets.com
+DOMAIN-SUFFIX,zimuzu.io
+DOMAIN-SUFFIX,zimuzu.tv
+DOMAIN-SUFFIX,zmz001.com
+DOMAIN-SUFFIX,zmz002.com
+DOMAIN-SUFFIX,zmz003.com
+DOMAIN-SUFFIX,zmz004.com
+DOMAIN-SUFFIX,zmz2019.com
+DOMAIN-SUFFIX,zmzapi.com
+DOMAIN-SUFFIX,zmzapi.net
+DOMAIN-SUFFIX,zmzfile.com
 
 # Public Direct CDN 公共直连
 #DOMAIN-SUFFIX,ajax.aspnetcdn.com
@@ -340,8 +407,6 @@ DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,upaiyun.com
-
-
 
 # AccelerateDirectSites
 DOMAIN-SUFFIX,10010.com
