@@ -80,7 +80,9 @@ DOMAIN-SUFFIX,alicloudccp.com
 DOMAIN-SUFFIX,aliexpress.com
 DOMAIN-SUFFIX,aliimg.com
 DOMAIN-SUFFIX,alikunlun.com
+DOMAIN-SUFFIX,alipay.cn
 DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipay.com.cn
 DOMAIN-SUFFIX,alipayobjects.com
 DOMAIN-SUFFIX,alisoft.com
 DOMAIN-SUFFIX,aliyun.com
@@ -121,6 +123,7 @@ DOMAIN-SUFFIX,bdurl.net
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,hao123img.com
 DOMAIN-SUFFIX,jomodns.com
+DOMAIN-SUFFIX,ourdvsss.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
 
 # Bilibili
@@ -131,13 +134,35 @@ DOMAIN-SUFFIX,bigfun.cn
 DOMAIN-SUFFIX,bigfunapp.cn
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.cc
+DOMAIN-SUFFIX,bilibili.cn
 DOMAIN-SUFFIX,bilibili.co
-DOMAIN-SUFFIX,biliintl.co
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.net
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,bilibiligame.cn
+DOMAIN-SUFFIX,bilibiligame.co
+DOMAIN-SUFFIX,bilibiligame.net
+DOMAIN-SUFFIX,bilibilipay.cn
+DOMAIN-SUFFIX,bilibilipay.com
+DOMAIN-SUFFIX,bilicdn1.com
+DOMAIN-SUFFIX,bilicdn2.com
+DOMAIN-SUFFIX,bilicdn3.com
+DOMAIN-SUFFIX,bilicdn4.com
+DOMAIN-SUFFIX,bilicdn5.com
+DOMAIN-SUFFIX,bilicomics.com
+DOMAIN-SUFFIX,biligame.cn
+DOMAIN-SUFFIX,biligame.co
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net
-DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,biligo.com
+DOMAIN-SUFFIX,biliimg.com
+DOMAIN-SUFFIX,biliintl.co
+DOMAIN-SUFFIX,biliintl.com
+DOMAIN-SUFFIX,biliplus.com
 DOMAIN-SUFFIX,bilivideo.cn
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,bilivideo.net
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
 
@@ -204,26 +229,70 @@ DOMAIN-SUFFIX,hwccpc.com
 DOMAIN-SUFFIX,vmall.com
 DOMAIN-SUFFIX,vmallres.com
 
-# Heytap
+# OPPO
+DOMAIN-SUFFIX,aibreeno.com
 DOMAIN-SUFFIX,allawnfs.com
 DOMAIN-SUFFIX,allawno.com
 DOMAIN-SUFFIX,allawntech.com
+DOMAIN-SUFFIX,andes.tech
+DOMAIN-SUFFIX,andesbrain.com
+DOMAIN-SUFFIX,andesclouds.com.cn
+DOMAIN-SUFFIX,breenomeet.cc
 DOMAIN-SUFFIX,coloros.com
+DOMAIN-SUFFIX,coloros.net
+DOMAIN-SUFFIX,familyincloud.com
+DOMAIN-SUFFIX,fenzijr.com
+DOMAIN-SUFFIX,finzfin.com
+DOMAIN-SUFFIX,finzjr.com
+DOMAIN-SUFFIX,heytap.cn
 DOMAIN-SUFFIX,heytap.com
+DOMAIN-SUFFIX,heytapcloud.cn
+DOMAIN-SUFFIX,heytapcloud.com
 DOMAIN-SUFFIX,heytapcs.com
 DOMAIN-SUFFIX,heytapdownload.com
 DOMAIN-SUFFIX,heytapimage.com
 DOMAIN-SUFFIX,heytapmobi.com
+DOMAIN-SUFFIX,heytapugc.com
+DOMAIN-SUFFIX,ibreeno.com
+DOMAIN-SUFFIX,keke.cn
+DOMAIN-SUFFIX,myoas.com
+DOMAIN-SUFFIX,myoas.net
+DOMAIN-SUFFIX,myoppo.com
+DOMAIN-SUFFIX,nearme.com.cn
+DOMAIN-SUFFIX,omeet.cc
+DOMAIN-SUFFIX,opdwz.cn
+DOMAIN-SUFFIX,oplustrust.com
+DOMAIN-SUFFIX,oppo.cn
 DOMAIN-SUFFIX,oppo.com
+DOMAIN-SUFFIX,oppo.mobi
+DOMAIN-SUFFIX,oppodataintel.cn
+DOMAIN-SUFFIX,oppodigital.com
+DOMAIN-SUFFIX,oppodigital.com.cn
+DOMAIN-SUFFIX,oppoer.cn
 DOMAIN-SUFFIX,oppoer.me
+DOMAIN-SUFFIX,oppofind.com
 DOMAIN-SUFFIX,oppomobile.com
+DOMAIN-SUFFIX,oppopay.com
+DOMAIN-SUFFIX,opposales.com
+DOMAIN-SUFFIX,opposhop.cn
+DOMAIN-SUFFIX,ortc.cc
+DOMAIN-SUFFIX,realme.com
+DOMAIN-SUFFIX,realme.net
+DOMAIN-SUFFIX,realmebbs.com
+DOMAIN-SUFFIX,realmemobile.com
+DOMAIN-SUFFIX,realmeservice.com
+DOMAIN-SUFFIX,sj6rgxtjg3tmb.com
+DOMAIN-SUFFIX,vayol.com
+DOMAIN-SUFFIX,wanyol.com
+DOMAIN-SUFFIX,xiaobool.com
+DOMAIN-SUFFIX,zeku.com
 
-# Iflytek 科大讯飞
+# iFlytek 科大讯飞
 DOMAIN-SUFFIX,iflyink.com
 DOMAIN-SUFFIX,iflyrec.com
 DOMAIN-SUFFIX,iflytek.com
 
-# Iqiyi
+# iQiyi
 DOMAIN-SUFFIX,71.am
 DOMAIN-SUFFIX,71edge.com
 DOMAIN-SUFFIX,iqiyi.com
@@ -247,6 +316,7 @@ DOMAIN-SUFFIX,paipai.com
 DOMAIN-SUFFIX,iciba.com
 DOMAIN-SUFFIX,ksosoft.com
 DOMAIN-SUFFIX,ksyun.com
+DOMAIN-SUFFIX,ksyungslb.com
 
 # 快手
 DOMAIN-SUFFIX,kuaishou.com
