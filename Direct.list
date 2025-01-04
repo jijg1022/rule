@@ -360,6 +360,10 @@ DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weiyun.com
 
+# Wechat
+DOMAIN-SUFFIX,qlogo.cn,DIRECT
+DOMAIN-SUFFIX,qpic.cn,DIRECT
+
 # Vip 唯品会
 DOMAIN-SUFFIX,appsimg.com
 DOMAIN-SUFFIX,appvipshop.com
@@ -396,6 +400,19 @@ DOMAIN-SUFFIX,zmz2019.com
 DOMAIN-SUFFIX,zmzapi.com
 DOMAIN-SUFFIX,zmzapi.net
 DOMAIN-SUFFIX,zmzfile.com
+
+# 疑似钉钉文件DNS
+IP-CIDR,47.89.66.243/32,no-resolve
+IP-CIDR,47.246.109.73/32,no-resolve
+IP-CIDR,47.246.109.74/32,no-resolve
+IP-CIDR,47.128.1.157.250/32,no-resolve
+IP-CIDR,47.128.1.157.251/32,no-resolve
+IP-CIDR,142.251.42.195/32,no-resolve
+IP-CIDR,161.117.107.66/32,no-resolve
+IP-CIDR,161.117.70.119/32,no-resolve
+IP-CIDR,161.117.142.138/32,no-resolve
+IP-CIDR,163.181.23.193/32,no-resolve
+IP-CIDR,163.181.23.196/32,no-resolve
 
 # Public Direct CDN 公共直连
 #DOMAIN-SUFFIX,ajax.aspnetcdn.com
