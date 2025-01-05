@@ -1,10 +1,3 @@
-# 域名后缀匹配
-DOMAIN-SUFFIX,time.windows.com
-DOMAIN-SUFFIX,lanzov.com
+# DIY
+DOMAIN,westaport.com
 DOMAIN-SUFFIX,westaport.com
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,chaipip.com
-DOMAIN-SUFFIX,dyndns.com
-DOMAIN-SUFFIX,oray.com
-DOMAIN-SUFFIX,netgear.com
-DOMAIN-SUFFIX,wemod.com
