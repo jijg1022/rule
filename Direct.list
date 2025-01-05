@@ -1,27 +1,3 @@
-# 域名后缀匹配
-DOMAIN-SUFFIX,time.windows.com
-DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,westaport.com
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,chaipip.com
-DOMAIN-SUFFIX,dyndns.com
-DOMAIN-SUFFIX,oray.com
-DOMAIN-SUFFIX,netgear.com
-DOMAIN-SUFFIX,netgear.com
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,baidu
-DOMAIN-KEYWORD,360buy
-DOMAIN-KEYWORD,alimama
-DOMAIN-KEYWORD,alipay
-DOMAIN-KEYWORD,appzapp
-DOMAIN-KEYWORD,duobao
-DOMAIN-KEYWORD,jdpay
-DOMAIN-KEYWORD,moke
-DOMAIN-KEYWORD,qhimg
-DOMAIN-KEYWORD,xiami
-DOMAIN-KEYWORD,xiaomi
-
 # 360
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com
