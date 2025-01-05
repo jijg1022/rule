@@ -6,11 +6,9 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,westaport.com
 DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,chaipip.com
-DOMAIN-SUFFIX,dyndns.com
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,netgear.com
-DOMAIN-SUFFIX,netgear.com
+DOMAIN-SUFFIX,wemod.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
