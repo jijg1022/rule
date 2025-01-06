@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,terabox.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
-DOMAIN-SUFFIX,api.ipify.org  #代理公网IP查询
+DOMAIN,api.ipify.org
 DOMAIN,c.mi.com
 
 # 域名后缀匹配
