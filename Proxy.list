@@ -207,23 +207,18 @@ DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,fanbox.cc
 
 # Steam
-DOMAIN,steambroadcast.akamaized.net
-DOMAIN,steamcommunity-a.akamaihd.net
-DOMAIN,steampipe.akamaized.net
-DOMAIN,steamstore-a.akamaihd.net
-DOMAIN,steamusercontent-a.akamaihd.net
-DOMAIN,steamuserimages-a.akamaihd.net
-DOMAIN-SUFFIX,fanatical.com
-DOMAIN-SUFFIX,humblebundle.com
-DOMAIN-SUFFIX,playartifact.com
-DOMAIN-SUFFIX,steam-chat.com
-DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,steamdb.info.com
+DOMAIN-SUFFIX,s.team
 DOMAIN-SUFFIX,steamgames.com
 DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,steamdb.info.com
 DOMAIN-SUFFIX,steamstat.us
-DOMAIN-SUFFIX,underlords.com
+DOMAIN-SUFFIX,steamdeck.com
 DOMAIN-SUFFIX,valvesoftware.com
+DOMAIN-SUFFIX,fanatical.com
+DOMAIN-SUFFIX,playartifact.com
+DOMAIN-SUFFIX,humblebundle.com
 
 # Telegram
 DOMAIN-SUFFIX,t.me
