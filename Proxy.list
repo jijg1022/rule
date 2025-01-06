@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,api.ipify.org  #代理公网IP查询
+DOMAIN,c.mi.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,adobedtm.com
@@ -193,6 +194,14 @@ IP-CIDR,173.252.64.0/18,no-resolve
 IP-CIDR,179.60.192.0/22,no-resolve
 IP-CIDR,185.60.216.0/22,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
+
+# Google
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,google.com.tw
+DOMAIN-SUFFIX,google.com.hk
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 # GoogleCN Proxy IP
 IP-CIDR,120.232.181.162/32,no-resolve
