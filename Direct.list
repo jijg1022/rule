@@ -411,43 +411,20 @@ DOMAIN-SUFFIX,sohurdc.com
 DOMAIN-SUFFIX,v-56.com
 
 # SteamCN
-DOMAIN,dl.steam.clngaa.com
-DOMAIN,dl.steam.ksyna.com
-DOMAIN,dota2.wmsj.cn
-DOMAIN,st.dl.bscstorage.net
-DOMAIN,st.dl.eccdnx.com
-DOMAIN,st.dl.pinyuncloud.com
-DOMAIN,steampipe.steamcontent.tnkjmec.com
-DOMAIN,steampowered.com.8686c.com
-DOMAIN,steamstatic.com.8686c.com
-DOMAIN,wmsjsteam.com
-DOMAIN,xz.pphimalayanrt.com
-DOMAIN,ext1-hkg1.steamserver.net
-DOMAIN,ext2-hkg1.steamserver.net
-DOMAIN,ext3-hkg1.steamserver.net
-DOMAIN,ext4-hkg1.steamserver.net
-DOMAIN,ext5-hkg1.steamserver.net
-DOMAIN,ext6-hkg1.steamserver.net
-DOMAIN,ext7-hkg1.steamserver.net
-DOMAIN,ext1-tyo3.steamserver.net
-DOMAIN,ext2-tyo3.steamserver.net
-DOMAIN,ext3-tyo3.steamserver.net
-DOMAIN,ext4-tyo3.steamserver.net
-DOMAIN,ext1-sgp1.steamserver.net
-DOMAIN,ext2-sgp1.steamserver.net
-DOMAIN,ext3-sgp1.steamserver.net
-DOMAIN,ext4-sgp1.steamserver.net
-DOMAIN,ext2-lax1.steamserver.net
-DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamchina.com
-DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamserver.net
-DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamusercontent.com
-DOMAIN-SUFFIX,csgo.wmsj.cn
-DOMAIN-SUFFIX,gstore.val.manlaxy.com
-DOMAIN-SUFFIX,steamdeck-images.steamos.cloud
-DOMAIN-SUFFIX,steampipe-sc.akamaized.net
+DOMAIN-SUFFIX,tnkjmec.com
+DOMAIN-SUFFIX,wmsj.cn
+DOMAIN-SUFFIX,wmsjsteam.cn
+DOMAIN-SUFFIX,api.steampowered.com
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,dl.steam.clngaa.com
+DOMAIN-SUFFIX,dl.steam.ksyna.com
+DOMAIN-SUFFIX,st.dl.bscstorage.net
+DOMAIN-SUFFIX,st.dl.eccdnx.com
+DOMAIN-SUFFIX,pinyuncloud.com
 
 # Tencent
 DOMAIN-SUFFIX,foxmail.com
