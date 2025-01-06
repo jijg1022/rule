@@ -393,6 +393,7 @@ DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
+DOMAIN-SUFFIX,steamdeck-images.steamos.cloud
 
 # Tencent
 DOMAIN-SUFFIX,foxmail.com
