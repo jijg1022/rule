@@ -196,9 +196,6 @@ IP-CIDR,204.15.20.0/22,no-resolve
 # Google
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,google.com.tw
-DOMAIN-SUFFIX,google.com.hk
-DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 # GoogleCN Proxy IP
