@@ -233,7 +233,6 @@ DOMAIN-SUFFIX,toolbarqueries.google.com
 DOMAIN-SUFFIX,tools.google.com
 DOMAIN-SUFFIX,tools.l.google.com
 DOMAIN-SUFFIX,www-googletagmanager.l.google.com
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 IP-CIDR,64.233.177.188/32,no-resolve
 IP-CIDR,64.233.186.188/32,no-resolve
 IP-CIDR,64.233.187.188/32,no-resolve
