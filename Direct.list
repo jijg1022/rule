@@ -446,6 +446,7 @@ DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,csgo.wmsj.cn
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
 DOMAIN-SUFFIX,steamdeck-images.steamos.cloud
+DOMAIN-SUFFIX,steampipe-sc.akamaized.net
 IP-CIDR,103.10.124.0/24,no-resolve
 IP-CIDR,103.10.125.0/24,no-resolve
 IP-CIDR,103.28.54.0/24,no-resolve
