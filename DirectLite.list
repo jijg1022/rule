@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,weatheroffer.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,msftcomecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
+DOMAIN-SUFFIX,dida365.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,gov.cn
