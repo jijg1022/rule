@@ -1,5 +1,15 @@
 # 代理补充列表(Lite)
 
+# 域名关键字匹配
+DOMAIN-KEYWORD,1e100
+
+# 域名匹配
+DOMAIN,translate.google.com
+DOMAIN,github.com
+DOMAIN,github.dev
+DOMAIN,api.github.com
+DOMAIN,alive.github.com
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,v2ex.com
@@ -20,9 +30,7 @@ DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,translate.googleapis.com
 DOMAIN-SUFFIX,translate.googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,1e100
+DOMAIN-SUFFIX,githubcopilot.com
 
 # 国外DNS
 IP-CIDR,1.0.0.1/32,no-resolve
