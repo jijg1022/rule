@@ -3,10 +3,17 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,analytics.immersivetranslate.com
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropboxstatic.com
 DOMAIN-SUFFIX,dropboxusercontent.com
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,google.com.tw
+DOMAIN-SUFFIX,google.com.hk
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
