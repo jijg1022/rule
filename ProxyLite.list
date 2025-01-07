@@ -4,7 +4,6 @@
 DOMAIN-KEYWORD,1e100
 
 # 域名匹配
-DOMAIN,translate.google.com
 DOMAIN,github.com
 DOMAIN,github.dev
 DOMAIN,api.github.com
