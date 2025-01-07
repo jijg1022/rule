@@ -3,16 +3,11 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
-# 域名匹配
-DOMAIN,github.com
-DOMAIN,github.dev
-DOMAIN,api.github.com
-DOMAIN,alive.github.com
-
 # 域名后缀匹配
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.dev
 DOMAIN-SUFFIX,analytics.immersivetranslate.com
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropboxstatic.com
