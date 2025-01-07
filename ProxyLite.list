@@ -45,3 +45,4 @@ IP-CIDR,103.115.43.2/32,no-resolve
 # 国外地址
 IP-CIDR,216.239.32.40/32,no-resolve
 IP-CIDR,216.58.220.100/32,no-resolve
+IP-CIDR,184.26.241.154/32,no-resolve
