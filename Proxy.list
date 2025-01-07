@@ -86,6 +86,7 @@ DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,vox-cdn.com
 
 # 域名关键字匹配
+DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,abema
 DOMAIN-KEYWORD,appledaily
 DOMAIN-KEYWORD,blogspot
