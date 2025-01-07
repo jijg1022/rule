@@ -221,6 +221,7 @@ DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,playartifact.com
 DOMAIN-SUFFIX,humblebundle.com
+IP-CIDR,184.26.241.154/32,no-resolve
 
 # Telegram
 DOMAIN-SUFFIX,t.me
