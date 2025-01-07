@@ -6,10 +6,7 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,westaport.com
 DOMAIN-SUFFIX,cwagpss.com
 DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,chaipip.com
 DOMAIN-SUFFIX,dyndns.com
-DOMAIN-SUFFIX,oray.com
-DOMAIN-SUFFIX,oray.net
 DOMAIN-SUFFIX,netgear.com
 DOMAIN-SUFFIX,wemod.com
 DOMAIN-SUFFIX,synology.me
@@ -20,6 +17,7 @@ DOMAIN-SUFFIX,open.e.189.cn
 DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
 DOMAIN-SUFFIX,ngxcld.com
 DOMAIN-SUFFIX,weatheroffer.com
+DOMAIN-SUFFIX,dida365.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
