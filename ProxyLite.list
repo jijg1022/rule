@@ -3,7 +3,11 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,bitwarden
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,v2ex
+DOMAIN-KEYWORD,youtube
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,analytics.immersivetranslate.com
