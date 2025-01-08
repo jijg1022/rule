@@ -38,6 +38,9 @@ IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
 
 # 国外地址
-IP-CIDR,216.239.32.40/32,no-resolve
-IP-CIDR,216.58.220.100/32,no-resolve
+IP-CIDR,172.217.31.170/32,no-resolve
+IP-CIDR,172.217.175.14/32,no-resolve
+IP-CIDR,172.217.175.46/32,no-resolve
 IP-CIDR,184.26.241.154/32,no-resolve
+IP-CIDR,216.58.220.100/32,no-resolve
+IP-CIDR,216.239.32.40/32,no-resolve
