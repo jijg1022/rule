@@ -80,6 +80,9 @@ DOMAIN-SUFFIX,mw1.google.com
 DOMAIN-SUFFIX,xn--ngstr-cn-8za9o.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 IP-CIDR,74.125.0.0/16,no-resolve
+IP-CIDR,172.217.31.170/32,no-resolve
+IP-CIDR,172.217.175.14/32,no-resolve
+IP-CIDR,172.217.175.46/32,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,184.26.241.154/32,no-resolve
 IP-CIDR,216.58.220.100/32,no-resolve
