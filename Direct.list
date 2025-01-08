@@ -4,30 +4,31 @@
 SRC-IP-CIDR,192.168.2.213/32,no-resolve
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,time.windows.com
-DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,westaport.com
-DOMAIN-SUFFIX,cwagpss.com
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,dyndns.com
-DOMAIN-SUFFIX,dyndns.org
-DOMAIN-SUFFIX,netgear.com
-DOMAIN-SUFFIX,wemod.com
 DOMAIN-SUFFIX,auth.wo.cn
 DOMAIN-SUFFIX,cmpassport.com
-DOMAIN-SUFFIX,id6.me
-DOMAIN-SUFFIX,open.e.189.cn
-DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
-DOMAIN-SUFFIX,ngxcld.com
-DOMAIN-SUFFIX,weatheroffer.com
+DOMAIN-SUFFIX,cwagpss.com
 DOMAIN-SUFFIX,dida365.com
+DOMAIN-SUFFIX,dyndns.com
+DOMAIN-SUFFIX,dyndns.org
+DOMAIN-SUFFIX,id6.me
+DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,netgear.com
+DOMAIN-SUFFIX,ngxcld.com
+DOMAIN-SUFFIX,open.e.189.cn
+DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,tizen.org
+DOMAIN-SUFFIX,weatheroffer.com
+DOMAIN-SUFFIX,wemod.com
+DOMAIN-SUFFIX,westaport.com
+DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,360buy
 DOMAIN-KEYWORD,alimama
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,appzapp
+DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,duobao
 DOMAIN-KEYWORD,jdpay
 DOMAIN-KEYWORD,moke
@@ -39,8 +40,8 @@ DOMAIN-KEYWORD,xiaomi
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.360.cn
 DOMAIN-SUFFIX,doh.pub
-DOMAIN-SUFFIX,xn--fiqs8s
 DOMAIN-SUFFIX,xn--55qx5d
+DOMAIN-SUFFIX,xn--fiqs8s
 DOMAIN-SUFFIX,xn--io0a7i
 IP-CIDR,1.12.12.12/32,no-resolve
 
