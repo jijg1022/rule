@@ -4,10 +4,10 @@
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,dyndns.com
+DOMAIN-SUFFIX,dyndns.org
 DOMAIN-SUFFIX,westaport.com
 DOMAIN-SUFFIX,cwagpss.com
 DOMAIN-SUFFIX,netgear.com
-DOMAIN-SUFFIX,synology.me
 DOMAIN-SUFFIX,wemod.com
 DOMAIN-SUFFIX,weatheroffer.com
 DOMAIN-SUFFIX,lanzov.com
@@ -314,17 +314,49 @@ DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qpic.cn
 
-# Vip 唯品会
+# 群晖
+DOMAIN-KEYWORD,synology
+DOMAIN-SUFFIX,synology.cn
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,synology.me
+DOMAIN-SUFFIX,quickconnect.cn
+DOMAIN-SUFFIX,quickconnect.to
+IP-CIDR,68.183.160.0/20,no-resolve
+IP-CIDR,44.236.224.47/32,no-resolve
+IP-CIDR,44.239.15.20/32,no-resolve
+IP-CIDR,44.239.77.234/32,no-resolve
+IP-CIDR,44.240.201.191/32,no-resolve
+IP-CIDR,44.241.103.184/32,no-resolve
+IP-CIDR,52.10.31.158/32,no-resolve
+IP-CIDR,52.80.147.155/32,no-resolve
+IP-CIDR,54.192.18.23/32,no-resolve
+IP-CIDR,54.192.18.27/32,no-resolve
+IP-CIDR,54.192.18.29/32,no-resolve
+IP-CIDR,54.192.18.107/32,no-resolve
+IP-CIDR,54.222.157.210/32,no-resolve
+IP-CIDR,54.222.235.145/32,no-resolve
+IP-CIDR,54.223.206.219/32,no-resolve
+IP-CIDR,104.248.79.120/32,no-resolve
+IP-CIDR,138.68.9.145/32,no-resolve
+IP-CIDR,138.68.28.244/32,no-resolve
+IP-CIDR,142.93.81.166/32,no-resolve
+IP-CIDR,159.65.77.153/32,no-resolve
+IP-CIDR,159.89.129.146/32,no-resolve
+IP-CIDR,159.89.142.52/32,no-resolve
+IP-CIDR,165.227.63.200/32,no-resolve
+IP-CIDR,206.189.214.49/32,no-resolve
+
+# 唯品会
 DOMAIN-SUFFIX,appsimg.com
 DOMAIN-SUFFIX,appvipshop.com
 DOMAIN-SUFFIX,vip.com
 DOMAIN-SUFFIX,vipstatic.com
 
-# Ximalaya 喜马拉雅
+# 喜马拉雅
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xmcdn.com
 
-# Xunlei 迅雷
+# 迅雷
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,88cdn.com
 DOMAIN-SUFFIX,kanimg.com
@@ -334,7 +366,7 @@ DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,thundercdn.com
 DOMAIN-SUFFIX,xunlei.com
 
-# Public Direct CDN 公共直连
+# Public Direct CDN
 #DOMAIN-SUFFIX,ajax.aspnetcdn.com
 #DOMAIN-SUFFIX,ajax.cloudflare.com
 #DOMAIN-SUFFIX,cdnjs.cloudflare.com
