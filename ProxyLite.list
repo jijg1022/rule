@@ -2,28 +2,30 @@
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,bitwarden
 DOMAIN-KEYWORD,v2ex
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,bitwarden.com
-DOMAIN-SUFFIX,v2ex.com
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,github.dev
 DOMAIN-SUFFIX,analytics.immersivetranslate.com
+DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropboxstatic.com
 DOMAIN-SUFFIX,dropboxusercontent.com
-DOMAIN-SUFFIX,ip.sb
-DOMAIN-SUFFIX,ipify.org
-DOMAIN-SUFFIX,ip-api.com
-DOMAIN-SUFFIX,ipstack.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.dev
+DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,google.com.tw
 DOMAIN-SUFFIX,google.com.hk
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,infinitynewtab.com
+DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,ipstack.com
+DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,githubcopilot.com
 
 # 国外DNS
 IP-CIDR,1.0.0.1/32,no-resolve
@@ -32,11 +34,11 @@ IP-CIDR,1.1.1.2/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,9.9.9.9/32,no-resolve
+IP-CIDR,103.115.43.2/32,no-resolve
+IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
-IP-CIDR,142.171.133.131/32,no-resolve
-IP-CIDR,103.115.43.2/32,no-resolve
 
 # 国外地址
 IP-CIDR,74.125.0.0/16,no-resolve
@@ -44,7 +46,9 @@ IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,172.217.175.0/24,no-resolve
 IP-CIDR,172.217.31.0/29,no-resolve
 IP-CIDR,142.250.207.10/32,no-resolve
+IP-CIDR,142.251.42.206/32,no-resolve
 IP-CIDR,142.251.222.10/32,no-resolve
 IP-CIDR,184.26.241.154/32,no-resolve
 IP-CIDR,216.58.220.100/32,no-resolve
 IP-CIDR,216.239.32.40/32,no-resolve
+IP-CIDR,216.239.36.223/32,no-resolve
