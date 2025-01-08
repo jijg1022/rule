@@ -84,7 +84,9 @@ IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,172.217.175.0/24,no-resolve
 IP-CIDR,172.217.31.0/29,no-resolve
 IP-CIDR,142.250.207.10/32,no-resolve
+IP-CIDR,142.251.42.206/32,no-resolve
 IP-CIDR,142.251.222.10/32,no-resolve
 IP-CIDR,184.26.241.154/32,no-resolve
 IP-CIDR,216.58.220.100/32,no-resolve
 IP-CIDR,216.239.32.40/32,no-resolve
+IP-CIDR,216.239.36.223/32,no-resolve
