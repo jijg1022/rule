@@ -3,8 +3,10 @@
 # 局域网指定IP无代理直连
 SRC-IP-CIDR,192.168.2.213/32,no-resolve
 
-# 域名后缀匹配
+# 域名匹配
 DOMAIN,tm-sdk.platinumai.net
+
+# 域名后缀匹配
 DOMAIN-SUFFIX,auth.wo.cn
 DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,cwagpss.com
