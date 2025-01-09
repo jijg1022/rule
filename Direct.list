@@ -7,6 +7,11 @@ SRC-IP-CIDR,192.168.2.213/32,no-resolve
 DOMAIN-SUFFIX,auth.wo.cn
 DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,cwagpss.com
+DOMAIN-SUFFIX,dell-brand.com
+DOMAIN-SUFFIX,dell.com
+DOMAIN-SUFFIX,dellcdn.com
+DOMAIN-SUFFIX,dellsupportcenter.com
+DOMAIN-SUFFIX,delltechnologies.com
 DOMAIN-SUFFIX,dida365.com
 DOMAIN-SUFFIX,dyndns.com
 DOMAIN-SUFFIX,dyndns.org
