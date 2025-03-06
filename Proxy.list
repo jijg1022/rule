@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,api.ipify.org
 DOMAIN-SUFFIX,bit.no.com
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,gameloft.com
+DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,infinitynewtab.com
 DOMAIN-SUFFIX,inoreader.com
 DOMAIN-SUFFIX,ip138.com
@@ -19,7 +20,6 @@ DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,metacubex.one
-DOMAIN-SUFFIX,grok.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,adobedtm.com
