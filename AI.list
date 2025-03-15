@@ -1,15 +1,15 @@
 # AI
 
-# 域名关键字匹配
-DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,anthropic
-DOMAIN-KEYWORD,Claude
-
 # 域名匹配
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,copilot.microsoft.com
 DOMAIN,gateway.ai.cloudflare.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,Claude
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,ai.com
