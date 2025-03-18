@@ -3,7 +3,7 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,bitwarden
-DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,v2ex
@@ -31,6 +31,21 @@ DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipstack.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+
+# Steam
+DOMAIN-SUFFIX,s.team
+DOMAIN-SUFFIX,steamgames.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,steamdb.info.com
+DOMAIN-SUFFIX,steamstat.us
+DOMAIN-SUFFIX,steamdeck.com
+DOMAIN-SUFFIX,valvesoftware.com
+DOMAIN-SUFFIX,fanatical.com
+DOMAIN-SUFFIX,playartifact.com
+DOMAIN-SUFFIX,humblebundle.com
+IP-CIDR,184.26.241.154/32,no-resolve
 
 # 国外DNS
 IP-CIDR,1.0.0.1/32,no-resolve
