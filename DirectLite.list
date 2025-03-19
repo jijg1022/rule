@@ -1,20 +1,20 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
-# 局域网指定IP无代理直连
-SRC-IP-CIDR,192.168.2.213/32,no-resolve
-
 # 域名匹配
 DOMAIN,tm-sdk.platinumai.net
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,auth.wo.cn
+DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,cwagpss.com
+DOMAIN-SUFFIX,dell.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,dyndns.com
 DOMAIN-SUFFIX,dyndns.org
+DOMAIN-SUFFIX,flingtrainer.com
 DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,netgear.com
 DOMAIN-SUFFIX,ngxcld.com
 DOMAIN-SUFFIX,open.e.189.cn
@@ -25,10 +25,6 @@ DOMAIN-SUFFIX,weatheroffer.com
 DOMAIN-SUFFIX,wemod.com
 DOMAIN-SUFFIX,westaport.com
 DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,dbankcloud
-DOMAIN-KEYWORD,qhimg
 
 # Alibaba
 DOMAIN-SUFFIX,1688.com
@@ -167,6 +163,38 @@ DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,livechina.com
 
+# DDNS
+DOMAIN-KEYWORD,synology
+DOMAIN-KEYWORD,quickconnect
+DOMAIN-SUFFIX,checkip.dyndns.org
+DOMAIN-SUFFIX,checkipv6.dyndns.org
+DOMAIN-SUFFIX,ifconfig.co
+DOMAIN-SUFFIX,api.myip.com
+DOMAIN-SUFFIX,ipapi.co
+DOMAIN-SUFFIX,ip6.seeip.org
+
+# Docker 反代CDN
+DOMAIN-SUFFIX,dockerpull.pw
+DOMAIN-SUFFIX,dockerpull.org
+
+# GitHub 反代CDN
+DOMAIN-SUFFIX,gh-proxy.com
+DOMAIN-SUFFIX,gh.con.sh
+DOMAIN-SUFFIX,gh.ddlc.top
+DOMAIN-SUFFIX,gh.llkk.cc
+DOMAIN-SUFFIX,ghproxy.cc
+DOMAIN-SUFFIX,ghproxy.cfd
+DOMAIN-SUFFIX,ghps.cc
+DOMAIN-SUFFIX,git.886.be
+DOMAIN-SUFFIX,github.abskoop.workers.dev
+DOMAIN-SUFFIX,github.boki.moe
+DOMAIN-SUFFIX,github.moeyy.xyz
+DOMAIN-SUFFIX,github.site
+DOMAIN-SUFFIX,github.store
+DOMAIN-SUFFIX,hub.gitmirror.com
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,kgithub.com
+
 # HuaWei
 DOMAIN-SUFFIX,dbankcdn.com
 DOMAIN-SUFFIX,hc-cdn.com
@@ -287,6 +315,10 @@ DOMAIN-SUFFIX,weiyun.com
 DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qpic.cn
+
+# Windows 网络连接探测
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
 
 # 喜马拉雅
 DOMAIN-SUFFIX,ximalaya.com
