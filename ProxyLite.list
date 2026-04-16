@@ -30,7 +30,10 @@ DOMAIN-SUFFIX,ipstack.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
-# GooglePlay 相关
+# 域名匹配
+DOMAIN,s.tgfcer.com
+
+ GooglePlay 相关
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,clientservices.googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
