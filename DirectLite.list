@@ -2,6 +2,11 @@
 
 # 域名匹配
 DOMAIN,tm-sdk.platinumai.net
+DOMAIN,alidocs.dingtalk.com
+DOMAIN,h5.dingtalk.com
+DOMAIN,login.dingtalk.com
+DOMAIN,g.alicdn.com
+DOMAIN,gw.alicdn.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,akamaihd.net
