@@ -1,7 +1,7 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # 域名匹配
-OMAIN,cdn.synergypeak.org
+DOMAIN,cdn.synergypeak.org
 DOMAIN,tm-sdk.platinumai.net
 DOMAIN,alidocs.dingtalk.com
 DOMAIN,h5.dingtalk.com
