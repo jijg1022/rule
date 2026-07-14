@@ -32,6 +32,8 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 # 域名匹配
 DOMAIN,s.tgfcer.com
+DOMAIN,challenges.cloudflare.com
+DOMAIN,a.nel.cloudflare.com
 
 # GooglePlay 相关
 DOMAIN-SUFFIX,services.googleapis.cn
