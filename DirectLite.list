@@ -12,7 +12,6 @@ DOMAIN,gw.alicdn.com
 # 域名后缀匹配
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,auth.wo.cn
-DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,cwagpss.com
 DOMAIN-SUFFIX,dell.com
