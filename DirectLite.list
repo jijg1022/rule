@@ -172,8 +172,6 @@ DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,livechina.com
 
 # DDNS
-DOMAIN-KEYWORD,synology
-DOMAIN-KEYWORD,quickconnect
 DOMAIN-SUFFIX,checkip.dyndns.org
 DOMAIN-SUFFIX,checkipv6.dyndns.org
 DOMAIN-SUFFIX,ifconfig.co
