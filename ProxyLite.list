@@ -70,6 +70,7 @@ IP-CIDR,208.67.220.220/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 
 # 国外地址
+IP-CIDR,54.223.223.92/32,no-resolve
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,172.217.175.0/24,no-resolve
