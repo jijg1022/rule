@@ -1,21 +1,13 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # 域名匹配
-DOMAIN,cdn.synergypeak.org
 DOMAIN,tm-sdk.platinumai.net
-DOMAIN,alidocs.dingtalk.com
-DOMAIN,h5.dingtalk.com
-DOMAIN,login.dingtalk.com
-DOMAIN,g.alicdn.com
-DOMAIN,gw.alicdn.com
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,auth.wo.cn
 DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,cwagpss.com
 DOMAIN-SUFFIX,dell.com
-DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,dyndns.com
 DOMAIN-SUFFIX,dyndns.org
 DOMAIN-SUFFIX,flingtrainer.com
@@ -31,7 +23,6 @@ DOMAIN-SUFFIX,tizen.org
 DOMAIN-SUFFIX,weatheroffer.com
 DOMAIN-SUFFIX,wemod.com
 DOMAIN-SUFFIX,westaport.com
-DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
 DOMAIN-SUFFIX,xxia.com
 
 # Alibaba
@@ -62,9 +53,7 @@ DOMAIN-SUFFIX,dingtalk.com
 DOMAIN-SUFFIX,dingtalkapps.com
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,hichina.com
-DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mxhichina.com
-DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,taobaocdn.com
 DOMAIN-SUFFIX,tbcache.com
@@ -72,10 +61,6 @@ DOMAIN-SUFFIX,tbcdn.com
 DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,tmall.hk
 DOMAIN-SUFFIX,ucweb.com
-DOMAIN-SUFFIX,xiami.com
-DOMAIN-SUFFIX,xiami.net
-DOMAIN-SUFFIX,ykimg.com
-DOMAIN-SUFFIX,youku.com
 
 # AppleCN
 DOMAIN,gs-loc-cn.apple.com
@@ -84,7 +69,6 @@ DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,cn.apple.com
 DOMAIN-SUFFIX,cn-ssl.ls.apple.com
 DOMAIN-SUFFIX,cn.ls.apple.com
-DOMAIN-SUFFIX,gspe19-cn-ssl.ls.apple.com
 DOMAIN-SUFFIX,icloud.com.cn
 
 # Baidu
@@ -100,25 +84,6 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,hao123img.com
 DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
-
-# Bilibili
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,b23.tv
-DOMAIN-SUFFIX,bigfun.cn
-DOMAIN-SUFFIX,bigfunapp.cn
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,bilibili.co
-DOMAIN-SUFFIX,biliintl.co
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,bilivideo.cn
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,im9.com
-DOMAIN-SUFFIX,smtcdns.net
 
 # ByteDance
 DOMAIN-SUFFIX,amemv.com
@@ -146,10 +111,8 @@ DOMAIN-SUFFIX,huoshan.com
 DOMAIN-SUFFIX,huoshanzhibo.com
 DOMAIN-SUFFIX,ibytedapm.com
 DOMAIN-SUFFIX,iesdouyin.com
-DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,kspkg.com
 DOMAIN-SUFFIX,pstatp.com
-DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,toutiao13.com
 DOMAIN-SUFFIX,toutiaoapi.com
@@ -166,14 +129,7 @@ DOMAIN-SUFFIX,zijieimg.com
 DOMAIN-SUFFIX,zjbyte.com
 DOMAIN-SUFFIX,zjcdn.com
 
-# CCTV
-DOMAIN-SUFFIX,cctv.com
-DOMAIN-SUFFIX,cctvpic.com
-DOMAIN-SUFFIX,livechina.com
-
 # DDNS
-DOMAIN-SUFFIX,checkip.dyndns.org
-DOMAIN-SUFFIX,checkipv6.dyndns.org
 DOMAIN-SUFFIX,ifconfig.co
 DOMAIN-SUFFIX,api.myip.com
 DOMAIN-SUFFIX,ipapi.co
@@ -198,7 +154,6 @@ DOMAIN-SUFFIX,github.moeyy.xyz
 DOMAIN-SUFFIX,github.site
 DOMAIN-SUFFIX,github.store
 DOMAIN-SUFFIX,hub.gitmirror.com
-DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,kgithub.com
 
 # HuaWei
@@ -273,31 +228,19 @@ DOMAIN-SUFFIX,sogo.com
 DOMAIN-SUFFIX,sogou.com
 DOMAIN-SUFFIX,sogoucdn.com
 DOMAIN-SUFFIX,sohu-inc.com
-DOMAIN-SUFFIX,sohu.com
 DOMAIN-SUFFIX,sohucs.com
 DOMAIN-SUFFIX,sohuno.com
 DOMAIN-SUFFIX,sohurdc.com
-DOMAIN-SUFFIX,v-56.com
 
 # SteamCN
-DOMAIN-SUFFIX,cm.steampowered.com
-DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamchina.com
-DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN,csgo.wmsj.cn
 DOMAIN,dota2.wmsj.cn
-DOMAIN,dl.steam.clngaa.com
 DOMAIN,dl.steam.ksyna.com
-DOMAIN,st.dl.bscstorage.net
-DOMAIN,st.dl.eccdnx.com
 DOMAIN,st.dl.pinyuncloud.com
-DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN,steampipe.steamcontent.tnkjmec.com
 DOMAIN,steampowered.com.8686c.com
 DOMAIN,steamstatic.com.8686c.com
-DOMAIN,steamcdn-a.akamaihd.net
 
 # Tencent
 DOMAIN-SUFFIX,foxmail.com
@@ -310,7 +253,6 @@ DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qqmail.com
 DOMAIN-SUFFIX,qqurl.com
 DOMAIN-SUFFIX,smtcdns.com
-DOMAIN-SUFFIX,smtcdns.net
 DOMAIN-SUFFIX,soso.com
 DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tencent.com
