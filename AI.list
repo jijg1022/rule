@@ -1,65 +1,85 @@
-# AI
+# AI 专用规则（精简版）
+# 目标：仅覆盖明确的 AI 服务及其必要专用依赖
+# 不包含 PayPal/Stripe、通用 CDN、通用搜索引擎、ASN/IP 段等非 AI 专属规则
 
-# 域名匹配
-DOMAIN,ai.google.dev
-DOMAIN,alkalicore-pa.clients6.google.com
-DOMAIN,copilot.microsoft.com
-DOMAIN,gateway.ai.cloudflare.com
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,anthropic
-DOMAIN-KEYWORD,Claude
-
-# 域名后缀匹配
+# OpenAI / ChatGPT / Sora
 DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bortzmeyer.org
+DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,circumlunar.space
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,client-api.arkoselabs.com
-DOMAIN-SUFFIX,clipdrop.co
-DOMAIN-SUFFIX,conman.org
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,deepmind.google
-DOMAIN-SUFFIX,dify.ai
-DOMAIN-SUFFIX,difyai.com
-DOMAIN-SUFFIX,events.statsigapi.net
-DOMAIN-SUFFIX,featuregates.org
-DOMAIN-SUFFIX,geller-pa.googleapis.com
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,genspark.ai
-DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,groq.com
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,jasper.ai
-DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,meta.ai
-DOMAIN-SUFFIX,metademolab.com
-DOMAIN-SUFFIX,mozz.us
-DOMAIN-SUFFIX,notebooklm.google
-DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,openart.ai
-DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,signalr.net
 DOMAIN-SUFFIX,sora.com
-DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,vulpes.one
+DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN,openai-api.arkoselabs.com
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,production-openaicom-storage.azureedge.net
+
+# Anthropic / Claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claude.site
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudemcpcontent.com
+DOMAIN-SUFFIX,clau.de
+DOMAIN,servd-anthropic-website.b-cdn.net
+
+# Google Gemini / AI Studio / NotebookLM
+DOMAIN,ai.google.dev
+DOMAIN,aistudio.google.com
+DOMAIN,bard.google.com
+DOMAIN,gemini.google.com
+DOMAIN,makersuite.google.com
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,geller-pa.googleapis.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,proactivebackend-pa.googleapis.com
+DOMAIN,aisandbox-pa.googleapis.com
+DOMAIN,robinfrontend-pa.googleapis.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+
+# Microsoft Copilot / Bing AI
+DOMAIN,copilot.microsoft.com
+DOMAIN,sydney.bing.com
+DOMAIN,services.bingapis.com
+DOMAIN,gateway.bingviz.microsoft.net
+DOMAIN,gateway.bingviz.microsoftapp.net
+DOMAIN-SUFFIX,edgeservices.bing.com
+
+# GitHub Copilot
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN,origin-tracker.githubusercontent.com
+
+# xAI / Grok
+DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,grokusercontent.com
+DOMAIN-SUFFIX,grok-sandbox.com
+DOMAIN-SUFFIX,groktpcontent.com
+
+# Perplexity
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.com
+DOMAIN-SUFFIX,pplx.ai
+
+# 其他明确 AI 服务
+DOMAIN,gateway.ai.cloudflare.com
+DOMAIN-SUFFIX,clipdrop.co
+DOMAIN-SUFFIX,dify.ai
+DOMAIN-SUFFIX,difyai.com
+DOMAIN-SUFFIX,genspark.ai
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,jasper.ai
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,metademolab.com
+DOMAIN-SUFFIX,openart.ai
