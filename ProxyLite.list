@@ -1,4 +1,6 @@
-# 代理补充列表(Lite)
+# 代理补充列表（Lite）
+# 定位：仅保留高置信度的人工强制代理补充项
+# AI 专项规则应放在本规则集之前
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
@@ -11,34 +13,22 @@ DOMAIN-KEYWORD,youtube
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,analytics.immersivetranslate.com
-DOMAIN-SUFFIX,bitwarden.com
-DOMAIN-SUFFIX,dropboxapi.com
-DOMAIN-SUFFIX,dropboxstatic.com
-DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.dev
-DOMAIN-SUFFIX,google.com.tw
-DOMAIN-SUFFIX,google.com.hk
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,infinitynewtab.com
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipstack.com
-DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,tgfcer.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
-# 域名匹配
+# 精确域名匹配
 DOMAIN,challenges.cloudflare.com
 DOMAIN,a.nel.cloudflare.com
 
-# GooglePlay 相关
-DOMAIN-SUFFIX,services.googleapis.cn
-DOMAIN-SUFFIX,clientservices.googleapis.com
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-
-# 国外DNS
+# 国外公共 DNS
 IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
 IP-CIDR,1.1.1.2/32,no-resolve
@@ -49,5 +39,5 @@ IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 
-# 国外地址
+# 实际日志确认的代理例外
 IP-CIDR,140.179.31.16/32,no-resolve
